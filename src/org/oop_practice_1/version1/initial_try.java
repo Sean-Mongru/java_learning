@@ -5,6 +5,8 @@ public class initial_try {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		System.out.println("Test number 4");
+		int x = 5;
+		System.out.println(x);
 	}
 
 }
