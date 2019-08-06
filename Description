@@ -1,0 +1,26 @@
+Basic school management system
+
+Keep track of student fees
+Manage Funds
+Teacher Salary
+
+//School
+Teachers
+Students
+Total Money Paid?
+Total Money spent - Teacher salary.
+
+//Teacher- object
+id,
+name,
+salary,
+
+//Student
+id,
+name,
+class,
+fees to be paid,
+fees total,
+
+
+
