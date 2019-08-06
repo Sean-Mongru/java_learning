@@ -12,5 +12,18 @@ public class teachers {
 		this.name=name;
 		this.salary=salary;
 	}
+	
+	/*
+	 * Getters for the project, returns the respective fields for the teacher class
+	 */
+	public String getName(){
+		return name;
+	}
+	public String getid() {
+		return id;
+	}
+	public int getSalary() {
+		return salary;
+	}
 }
 //38:06
