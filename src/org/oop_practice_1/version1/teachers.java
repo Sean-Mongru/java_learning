@@ -25,5 +25,16 @@ public class teachers {
 	public int getSalary() {
 		return salary;
 	}
+	/*
+	 * Setters for project, sets the respective fields for the teacher class
+	 */
+	public void setSalary(int salary){
+		this.salary = salary;
+	}
+
+	public static void add(teachers teacher) {
+		// TODO Auto-generated method stub
+		
+	}
 }
 //38:06

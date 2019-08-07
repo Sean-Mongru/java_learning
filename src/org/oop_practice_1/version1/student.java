@@ -38,4 +38,33 @@ public class student{
 		this.fees_paid += fees;
 		this.fees_total -= fees;
 	}
+	
+	/*
+	 * Getters for the 5 fields we have
+	 */
+	public int getId() {
+		return id;
+	}
+	public String getName() {
+		return name;
+	}
+	public int getGrade() {
+		return grade;
+	}
+	public double getFees_paid() {
+		return fees_paid;
+	}
+	public double getFees_total() {
+		return fees_total;
+	}
+	public static void add(student students) {
+		// TODO Auto-generated method stub
+		
+	}
+	
+	
+	
+	
+	
+	
 }
